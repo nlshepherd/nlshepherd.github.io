@@ -8,13 +8,13 @@
 # *** If you're not sure what this means, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://nlshepherd.github.io/p53project"
+url: "http://nlshepherd.github.io"
 
 # baseurl should be an empty string
 #baseurl: ""
 
 # Name of website
-title: p53 Variants
+title: Variants of P53
 
 # Short description of your site
 description: This is a project looking at 8 different variants of the p53 gene in humans, and their implications in the development of cancer
