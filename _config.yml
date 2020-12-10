@@ -8,7 +8,7 @@
 # *** If you're not sure what this means, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://nlshepherd.github.io/beautiful-project"
+url: "http://nlshepherd.github.io/p53project"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -42,21 +42,18 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Your name goes here
-  email: "youremail@gmail.com"
-  facebook: yourfacebook
-  github: yourgithub
-  twitter: yourtwitter
+  name: Nora Shepherd
+  email: "nlshepherd@gwu.edu"
 #  linkedin: "pub/dean-attali/8/946/143"
 #  stackoverflow: "users/3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: true
-  github: true
+  twitter: false
+  github: false
   linkedin: false
   stackoverflow: false
   
